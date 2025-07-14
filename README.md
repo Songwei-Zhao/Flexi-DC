@@ -1,3 +1,5 @@
-  To run Flexi-DC:
+# A Flexible Diffusion Convolution for Graph Neural Networks
+This is the implementation of Flexi-DC
 
-`python Flexi-DC.py --config config_Cora_GCN.yaml --t 1`
+## To run Flexi-DC:
+    python Flexi-DC.py --config config_Cora_GCN.yaml --t 1
